@@ -9,14 +9,15 @@
 
 ## 效果预览
 
-#### APP界面：
+#### APP演示动画(.gif ~3Mb)：
 <img src="https://denghao.me/usr/uploads/2020/06/3107826462.gif" style="max-width:500px;width:100%;" />
 
 #### 后台界面：
 ![app-notice-admin.png][2]
 
-## 后台地址
-[https://denghao.me/special/appNotice/list.php][4]
+## Demo地址
+#### apk安装包：[http://denghao.me/special/appNotice/appNotice.apk][5] (debug版，某些安卓版本可能运行不了)
+#### 后台地址 [https://denghao.me/special/appNotice/list.php][4]
 
 ## 提醒
 -  Android非我专业, 这个demo是自己参考各方资料后拼凑出来的，仅供学习使用。 
@@ -31,3 +32,4 @@
   [2]: https://denghao.me/usr/uploads/2020/06/831407762.png
   [3]: https://denghao.me
   [4]: https://denghao.me/special/appNotice/list.php
+  [5]: ![https://denghao.me/special/appNotice/appNotice.apk]
