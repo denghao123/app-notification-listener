@@ -22,7 +22,12 @@
 -  Android非我专业, 这个demo是自己参考各方资料后拼凑出来的，仅供学习使用。 
 -  跑起APP需要安装一堆软件和依赖包，请作好心理准备。
 
+## 联系我
+-  [https://denghao.me][3]
+-  Email: jie4038[at]qq.com
+
 
   [1]: https://denghao.me/usr/uploads/2020/06/1599131392.jpg
   [2]: https://denghao.me/usr/uploads/2020/06/831407762.png
+  [3]: https://denghao.me
   [4]: https://denghao.me/special/appNotice/list.php
