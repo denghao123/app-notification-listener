@@ -15,10 +15,8 @@
 #### 后台界面：
 ![app-notice-admin.png][2]
 
-## 源码地址
-#### Android源码: [https://github.com/denghao123/app-notification-listener][3]
-#### 服务端源码：（简单的增删改查，略）
-#### 后台地址：[https://denghao.me/special/appNotice/list.php][4]
+## 后台地址
+[https://denghao.me/special/appNotice/list.php][4]
 
 ## 提醒
 -  Android非我专业, 这个demo是自己参考各方资料后拼凑出来的，仅供学习使用。 
@@ -27,5 +25,4 @@
 
   [1]: https://denghao.me/usr/uploads/2020/06/1599131392.jpg
   [2]: https://denghao.me/usr/uploads/2020/06/831407762.png
-  [3]: https://github.com/denghao123/app-notification-listener
   [4]: https://denghao.me/special/appNotice/list.php
